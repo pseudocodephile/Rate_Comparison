@@ -2,7 +2,7 @@
 
 ## This is a hackathon project by the team Cypher dimension
 
-### A tool designed to help you shop and provide relevent analysis for your desired product.
+> A tool designed to help you shop and provide relevent analysis for your desired product.
 
 # Tech stacks
 ## Front - End
@@ -35,7 +35,7 @@
 
 
 ## Future Prospects
-### Let’s look at some benefits of a price comparison website and what you can gain from using one. You should Hire a Web Developer, keeping these benefits in mind.
+### Let’s look at some benefits of a price comparison website and what you can gain from using one.
 
 1) Helps You Save Money
 2) Helps You Save Time
