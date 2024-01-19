@@ -16,10 +16,10 @@
 ### Matplotlib
 ### Pandas
 ### Numpy
-### Beautiful soup
+### Beautifulsoup4
 ### Scipy
 
-## Features of the appliaction
+## Features of the application
 ### Basic Description
 ### Product Image
 ### Customer Ratings
