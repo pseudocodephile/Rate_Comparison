@@ -26,6 +26,7 @@
 ### Search Tab
 ### Sorting (on price)
 ### Price Chart
+### Discount
 
 ## Additional features: 
 ### Alternatives or Similar Product
